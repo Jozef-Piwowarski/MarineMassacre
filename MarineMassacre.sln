@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarineMassacre", "MarineMassacre\MarineMassacre.csproj", "{80DD06BF-A94B-4F73-A09D-264D9746F12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineMassacreTestProject", "MarineMassacreTestProject\MarineMassacreTestProject.csproj", "{62A7587C-C39C-4121-983C-9AB902747680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DD06BF-A94B-4F73-A09D-264D9746F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DD06BF-A94B-4F73-A09D-264D9746F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DD06BF-A94B-4F73-A09D-264D9746F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DD06BF-A94B-4F73-A09D-264D9746F12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A7587C-C39C-4121-983C-9AB902747680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A7587C-C39C-4121-983C-9AB902747680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A7587C-C39C-4121-983C-9AB902747680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A7587C-C39C-4121-983C-9AB902747680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC080206-B63E-4FC1-81D0-395C002B44BB}
+	EndGlobalSection
+EndGlobal
